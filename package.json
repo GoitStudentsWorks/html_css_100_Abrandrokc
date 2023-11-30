@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-lazy-work/",
+    "build": "vite build --base=/html_css_100_Abrandrokc/",
     "preview": "vite preview"
   },
   "devDependencies": {
